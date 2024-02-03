@@ -14,6 +14,7 @@
 - https://nodejs.org/en
 - https://expressjs.com/en/starter/installing.html
 - https://www.mongodb.com/docs/manual/installation/
+- https://vitejs.dev/guide/
 - https://react.dev/reference/react
 
 # VSCode Extension
